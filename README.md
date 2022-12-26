@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning in https://tel-ran.de/de
 
-- 📱 I worked on mobile testing [Remindly](https://github.com/RodionGlezerov/QA32FirstMobileProject)
+- 📱 I worked on mobile testing project [Remindly](https://github.com/RodionGlezerov/QA32FirstMobileProject)
 
 - 📫 How to reach me **rodion.glezerov@gmail.com**
 
