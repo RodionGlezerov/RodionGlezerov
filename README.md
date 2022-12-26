@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodion Glezerov</h1>
+<h1 align="center">Hi 👋 there, I'm Rodion</h1> 
 <h3 align="center">QA Engineer</h3>
 
 - 🔭 I’m currently working on [OSCAR WEBSHOP](https://github.com/RodionGlezerov/OscarMavenProject)
