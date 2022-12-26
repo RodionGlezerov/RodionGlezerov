@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OSCAR WEBSHOP](https://github.com/RodionGlezerov/OscarMavenProject)
 
-- 🌱 I’m currently learning in https://tel-ran.de/
+- 🌱 I’m currently learning in https://tel-ran.de/de
 
 - 📱 I worked on mobile testing [Remindly](https://github.com/RodionGlezerov/QA32FirstMobileProject)
 
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodionglezerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodionglezerov" height="30" width="40" /></a>
+<a href="https://t.me/rodionglezerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="rodionglezerov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
